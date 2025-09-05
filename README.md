@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S H Rajesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Generative+AI+Practitioner;GenAI+Engineert;Computer+Vision+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;GenAI+Engineert;Computer+Vision+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
