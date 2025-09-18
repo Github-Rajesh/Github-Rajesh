@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm S H Rajesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;GenAI+Engineert;Computer+Vision+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=520&lines=Machine+Learning+Engineer;GenAI+Engineer;Computer+Vision+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrajesh-cmd/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:shrajesh.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://shrajeshwork.wixsite.com/ds-ml"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/shrajesh-cmd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shrajesh.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://shrajeshwork.wixsite.com/ds-ml"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
 ### 💡 About Me
 
-I am a results-driven **Machine Learning Engineer** at Nasiwak IT Services with experience building **Conversational AI**, **Generative AI**, **Object Detection**, and **Forecasting Models** across domains like healthcare, manufacturing, and social media.
+I’m a results-driven **Machine Learning Engineer** at Nasiwak IT Services. I build **Conversational AI**, **Generative AI**, **Computer Vision**, and **Forecasting** solutions across healthcare, manufacturing, and social media.
 
-I specialize in:
-- End-to-end ML pipelines
+**I specialize in:**
+- End-to-end ML pipelines & MLOps
 - Deep Learning with TTS/STT and LLMs
-- OCR, RPA, and automation solutions
-- Data visualization and storytelling for insights
+- OCR, RPA, and workflow automation
+- Data visualization and storytelling for decision-making
 
 ---
 
@@ -32,7 +32,7 @@ I specialize in:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-4B0082?style=flat-square&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-4B0082?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-E36209?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
@@ -41,37 +41,45 @@ I specialize in:
 ### 🚀 Featured Projects
 
 - **📊 Social Media Trend Analyzer**  
-  A full-stack tool to extract and generate trends via text-to-image models for brand awareness.
+  Full-stack tool that extracts signals and generates visual trend stories via text-to-image models for brand teams.
 
 - **🤖 Conversational AI for Language Learning**  
-  Chatbot using TTS/STT, LLaMA-2, LangChain and Generative AI for interactive spoken learning.
+  Voice chatbot using TTS/STT, LLaMA-2, LangChain, and GenAI for interactive speaking practice.
 
 - **🔍 OCR-based RPA Bots**  
-  Automated domain-specific text extraction tools using Tesseract and ML, achieving 100% accuracy.
+  Automated domain-specific text extraction pipelines with Tesseract + ML; robust accuracy with QA loops.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Github-Rajesh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Github-Rajesh&theme=radical" alt="Streak Stats" />
+  <!-- Public shared endpoint (add caching to reduce rate limits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Github-Rajesh&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <!-- Use the recommended mirror for streaks -->
+  <img src="https://streak-stats.demolab.com?user=Github-Rajesh&theme=radical" alt="Streak Stats" />
 </p>
+
+<!--
+✅ Recommended (no rate-limit issues): self-host github-readme-stats on Vercel and use your URL below.
+Replace <your-app> with your Vercel project name after setting GITHUB_TOKEN in env vars.
+  <img src="https://<your-app>.vercel.app/api?username=Github-Rajesh&show_icons=true&theme=radical" />
+  <img src="https://<your-app>.vercel.app/api/top-langs/?username=Github-Rajesh&layout=compact&theme=radical" />
+Tip: bump cache on demand with &v=1
+-->
 
 ---
 
 ### 🧠 Fun Fact
 
-_"Efficiency is doing things right; effectiveness is doing the right things."_
+> “Efficiency is doing things right; effectiveness is doing the right things.”
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let’s Connect
 
-I love collaborating on AI/ML projects, especially those that make everyday tasks smarter and faster.  
-Let’s build something impactful together!
+I love collaborating on AI/ML projects that make everyday tasks smarter and faster.  
+Let’s build something impactful!
 
-📧: shrajesh.work@gmail.com  
-🌐: [shrajeshwork.wixsite.com/ds-ml](https://shrajeshwork.wixsite.com/ds-ml)
-
----
+- 📧 **Email:** shrajesh.work@gmail.com  
+- 🌐 **Portfolio:** https://shrajeshwork.wixsite.com/ds-ml
