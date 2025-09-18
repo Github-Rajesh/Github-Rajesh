@@ -55,8 +55,7 @@ I’m a results-driven **Machine Learning Engineer** at Nasiwak IT Services. I b
 
 <p align="center">
   <!-- Public shared endpoint (add caching to reduce rate limits) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Github-Rajesh&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-  <!-- Use the recommended mirror for streaks -->
+  <img src="https://github-readme-stats-<your-vercel-suffix>.vercel.app/api?username=Github-Rajesh&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Github-Rajesh&theme=radical" alt="Streak Stats" />
 </p>
 
