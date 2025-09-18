@@ -106,3 +106,7 @@ Results-driven **Machine Learning Engineer** at Nasiwak IT Services. I build pro
 <p align="center">
   <sub>Made with focus, ☕, and a bias for shipping.</sub>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Github-Rajesh/Github-Rajesh/main/metrics.svg" alt="GitHub Metrics" />
+</p>
