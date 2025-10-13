@@ -24,7 +24,7 @@
 Results-driven **Machine Learning Engineer** at Nasiwak IT Services. I build production systems in **Conversational AI**, **Generative AI**, **Computer Vision**, and **Forecasting** across healthcare, manufacturing, and social media.
 
 - 🔭 End-to-end ML: data → features → model → API → dashboards  
-- 🧠 Deep Learning: LLMs, TTS/STT, transformers  
+- 🧠 Deep Learning: LLMs, TTS/STT, transformers, Object detection(Yolo, detectron etc.)
 - 🛠️ OCR + RPA: automation that removes repetitive, error-prone work  
 - 📊 Data storytelling → clear, actionable decisions
 
@@ -52,15 +52,15 @@ Results-driven **Machine Learning Engineer** at Nasiwak IT Services. I build pro
 ## 🚀 Selected Projects
 - **📊 Social Media Trend Analyzer**  
   Full-stack pipeline turning social signals into visual trend stories (text→image).  
-  *Stack:* Python, FastAPI, diffusers, Redis, React/Vue — **[add link]**
+  *Stack:* Python, FastAPI, diffusers, Redis, React/Vue
 
 - **🤖 Conversational AI for Language Learning**  
   TTS/STT + LLaMA-2 + LangChain for interactive speaking practice.  
-  *Stack:* Whisper, LLaMA-2, LangChain, FAISS — **[add link]**
+  *Stack:* Whisper, LLaMA-2, LangChain, FAISS 
 
 - **🔍 OCR-based RPA Bots**  
   High-accuracy parsing + workflow automation for real ops (Kizuku/WebAccess/MailDealer).  
-  *Stack:* OpenCV, Tesseract, Selenium, xlwings/OpenPyXL, Graph API — **[add link]**
+  *Stack:* OpenCV, Tesseract, Selenium, xlwings/OpenPyXL, Graph API
 
 > Want a deeper dive? Ping me and I’ll share private demos where possible.
 
