@@ -96,9 +96,7 @@ Results-driven **Machine Learning Engineer** at Nasiwak IT Services. I build pro
 ---
 
 ## 📌 Quick Links
-- 🔎 **Pinned repos:** _add links to your top 3 repositories here_  
-- 🧪 **Playground notebooks:** _add link_  
-- 📝 **Talks/Notes:** _add link_
+***Coming Soon"""
 
 ---
 
