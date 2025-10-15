@@ -172,25 +172,39 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 ---
 
+## 💻 Languages I Work With
+
+<div align="center">
+
+| Rank | Language | Usage % | Typical Use |
+|:----:|:---------|:-------:|:------------|
+| 1️⃣ | **Python** | 65% | Core ML, AI, data wrangling, deep learning |
+| 2️⃣ | **SQL** | 12% | Data extraction, querying, preprocessing |
+| 3️⃣ | **C++** | 8% | Model optimization, performance-critical modules |
+| 4️⃣ | **Scala** | 5% | Big data (Spark MLlib, distributed systems) |
+| 5️⃣ | **Julia** | 4% | High-performance scientific computing, experimentation |
+| 6️⃣ | **MATLAB** | 3% | Research, prototyping, academic ML |
+| 7️⃣ | **Shell/Bash** | 3% | Automation, data pipeline orchestration |
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Github-Rajesh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00D4&icon_color=FF00D4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Github-Rajesh&theme=radical&hide_border=true&background=0D1117&stroke=FF00D4&ring=FF00D4&fire=FF6600&currStreakLabel=FF00D4" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Github-Rajesh&theme=radical&hide_border=true&background=0D1117&stroke=FF00D4&ring=FF00D4&fire=FF6600&currStreakLabel=FF00D4" alt="GitHub Streak" height="200"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Github-Rajesh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00D4&text_color=FFFFFF&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" height="180"/>
+### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Github-Rajesh&theme=react-dark&bg_color=0D1117&color=FF00D4&line=FF00D4&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Github-Rajesh&theme=react-dark&bg_color=0D1117&color=FF00D4&line=FF00D4&point=FFFFFF&hide_border=true)
 
 </div>
-
-> **Note:** Language stats exclude Jupyter Notebook files to better reflect core programming languages used in production code.
 
 ---
 
