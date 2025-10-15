@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm S H Rajesh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;GenAI+%26+LLM+Specialist;Computer+Vision+Developer;Building+AI+that+Ships+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;GenAI+%26+LLM+Specialist;Computer+Vision+Developer;Building+AI+that+Ships+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-S.H.Rajesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrajesh-cmd/)
 [![Email](https://img.shields.io/badge/Email-shrajesh.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrajesh.work@gmail.com)
@@ -19,18 +19,6 @@
 **Machine Learning Engineer** at Nasiwak IT Services | Building production-grade AI systems that solve real problems
 
 I specialize in transforming complex data into intelligent, scalable solutions across **Conversational AI**, **Generative AI**, **Computer Vision**, and **Forecasting**. My work spans healthcare, manufacturing, and social media domains.
-
-```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "S H Rajesh"
-        self.role = "Machine Learning Engineer"
-        self.focus = ["GenAI", "Computer Vision", "LLMs", "Production ML"]
-        self.mantra = "Ship fast, iterate faster"
-    
-    def daily_workflow(self):
-        return ["☕ Coffee", "💻 Code", "🚀 Deploy", "📊 Monitor", "🔄 Repeat"]
-```
 
 ### 🎯 What I Do Best
 - 🔭 **End-to-end ML pipelines**: From raw data → feature engineering → model training → API deployment → monitoring dashboards
