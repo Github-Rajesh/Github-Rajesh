@@ -14,23 +14,23 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 **Machine Learning Engineer** at Nasiwak IT Services | Building production-grade AI systems that solve real problems
 
 I specialize in transforming complex data into intelligent, scalable solutions across **Conversational AI**, **Generative AI**, **Computer Vision**, and **Forecasting**. My work spans healthcare, manufacturing, and social media domains.
 
-### 🎯 What I Do Best
-- 🔭 **End-to-end ML pipelines**: From raw data → feature engineering → model training → API deployment → monitoring dashboards
-- 🧠 **Deep Learning**: LLMs (LLaMA, GPT), TTS/STT, transformers, YOLO, Detectron2
-- 🛠️ **Intelligent Automation**: OCR + RPA systems that eliminate repetitive, error-prone work
-- 📊 **Data-Driven Insights**: Turning complex data into clear, actionable decisions
+### What I Do Best
+- **End-to-end ML pipelines**: From raw data → feature engineering → model training → API deployment → monitoring dashboards
+- **Deep Learning**: LLMs (LLaMA, GPT), TTS/STT, transformers, YOLO, Detectron2
+- **Intelligent Automation**: OCR + RPA systems that eliminate repetitive, error-prone work
+- **Data-Driven Insights**: Turning complex data into clear, actionable decisions
 
 > *"Efficiency is doing things right; effectiveness is doing the right things."* — Peter Drucker
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 <p align="center">
@@ -74,10 +74,10 @@ I specialize in transforming complex data into intelligent, scalable solutions a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><b>📊 Social Media Trend Analyzer</b></summary>
+<summary><b>Social Media Trend Analyzer</b></summary>
 <br>
 Full-stack AI pipeline that transforms social signals into visual trend stories using text-to-image generation.
 
@@ -93,7 +93,7 @@ Full-stack AI pipeline that transforms social signals into visual trend stories 
 </details>
 
 <details>
-<summary><b>🤖 Conversational AI for Language Learning</b></summary>
+<summary><b>Conversational AI for Language Learning</b></summary>
 <br>
 Interactive language learning platform with real-time speech recognition and intelligent tutoring.
 
@@ -109,7 +109,7 @@ Interactive language learning platform with real-time speech recognition and int
 </details>
 
 <details>
-<summary><b>🔍 OCR-based RPA Automation Suite</b></summary>
+<summary><b>OCR-based RPA Automation Suite</b></summary>
 <br>
 Enterprise-grade automation bots with high-accuracy document parsing and workflow orchestration.
 
@@ -124,17 +124,17 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 **Impact:** Automated 10,000+ monthly transactions, saving 200+ hours/month
 </details>
 
-> 💬 **Want a deeper dive?** Connect with me to discuss technical details or request private demos!
+> **Want a deeper dive?** Connect with me to discuss technical details or request private demos!
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 - Large Language Models (LLMs)
 - RAG pipelines & prompt engineering
 - Computer Vision (detection, segmentation)
@@ -144,7 +144,7 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 </td>
 <td width="50%">
 
-### 🛠️ Engineering & Ops
+### Engineering & Ops
 - ETL/ELT pipeline design
 - Feature stores & model registries
 - FastAPI & microservices
@@ -157,22 +157,22 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
-🔬 **Research & Development:**
+**Research & Development:**
 - Small Language Models (SLMs) for edge/on-device inference
 - Structured output generation & function calling patterns
 - Bilingual (JA/EN) RAG systems and evaluation frameworks
 - Reinforcement Learning from Human Feedback (RLHF)
 
-📖 **Learning:**
+**Learning:**
 - MLOps best practices
 - Multi-modal AI architectures
 - Prompt injection defense mechanisms
 
 ---
 
-## 💻 Languages I Work With
+## Languages I Work With
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -200,7 +200,7 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 <div align="center">
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Github-Rajesh&theme=react-dark&bg_color=0D1117&color=FF00D4&line=FF00D4&point=FFFFFF&hide_border=true)
 
@@ -208,7 +208,7 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -218,7 +218,7 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 ---
 
-## 📈 Profile Insights
+## Profile Insights
 
 <div align="center">
 
@@ -228,15 +228,15 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 ---
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 
 I'm always interested in:
-- 🚀 Innovative AI/ML projects
-- 🤝 Open source contributions
-- 💡 Technical discussions and knowledge sharing
-- 🎓 Mentoring and learning opportunities
+- Innovative AI/ML projects
+- Open source contributions
+- Technical discussions and knowledge sharing
+- Mentoring and learning opportunities
 
-### 📬 Reach Me
+### Reach Me
 
 <div align="center">
 
@@ -250,7 +250,7 @@ I'm always interested in:
 
 <div align="center">
 
-### ⚡ Fun Fact
+### Fun Fact
 *I debug with print statements and I'm not ashamed to admit it* 😄
 
 ---
