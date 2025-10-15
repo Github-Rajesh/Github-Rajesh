@@ -87,7 +87,7 @@ Full fledge ML application that uses YOLO v8m model to detect objects and perfor
 - FastApi hosted interface.
 - Multiple added functionalities for easier user experience.
 
-**Tech Stack:** Python, FastAPI, Object detection, React, PostgreSQL, HTML, Canva, JavaScript. 
+**Tech Stack:** Python, FastAPI, Object detection using Ultralytics YOLO, React, PostgreSQL, HTML, Canva, JavaScript. 
 
 **Impact:** Saved hours of manualy counting of objects and area/perimater value calculations. Takes one drag and drop to get all the required values on a single click, what took 10-20 people do 100-200 bblueprints now takes only minutes.
 </details>
