@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Hi 👋, I'm S H Rajesh
+# Hi, I'm S H Rajesh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;GenAI+%26+LLM+Specialist;Computer+Vision+Developer;Building+AI+that+Ships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;GenAI+and+LLM+Specialist;Computer+Vision+Developer;Building+AI+that+Ships" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-S.H.Rajesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrajesh-cmd/)
 [![Email](https://img.shields.io/badge/Email-shrajesh.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrajesh.work@gmail.com)
@@ -14,19 +14,29 @@
 
 ---
 
+## Quick Highlights
+
+**Core Strengths:** LLMs · Computer Vision · MLOps · RAG Pipelines  
+**Current Role:** Machine Learning Engineer @ Nasiwak IT Services  
+**Domains:** Construction · Manufacturing · Healthcare · Social Media
+
+---
+
 ## About Me
 
-**Machine Learning Engineer** at Nasiwak IT Services | Building production-grade AI systems that solve real problems
-
-I specialize in transforming complex data into intelligent, scalable solutions across **Conversational AI**, **Generative AI**, **Computer Vision**, and **Forecasting**. My work spans healthcare, manufacturing, and social media domains.
-
-### What I Do Best
-- **End-to-end ML pipelines**: From raw data → feature engineering → model training → API deployment → monitoring dashboards
-- **Deep Learning**: LLMs (LLaMA, GPT), TTS/STT, transformers, YOLO, Detectron2
-- **Intelligent Automation**: OCR + RPA systems that eliminate repetitive, error-prone work
-- **Data-Driven Insights**: Turning complex data into clear, actionable decisions
+Machine Learning Engineer passionate about building production-grade AI systems that solve real-world problems.  
+I specialize in transforming complex data into intelligent, scalable solutions across Conversational AI, Generative AI, Computer Vision, and Forecasting.
 
 > *"Efficiency is doing things right; effectiveness is doing the right things."* — Peter Drucker
+
+---
+
+## What I Do
+
+- End-to-End ML Pipelines — Data → Features → Model → API → Monitoring  
+- Deep Learning — Transformers, YOLO, TTS/STT, and LLMs (LLaMA, GPT)  
+- AI Automation — OCR + RPA workflows that replace repetitive work  
+- Data Insights — Turning messy data into actionable intelligence
 
 ---
 
@@ -37,7 +47,8 @@ I specialize in transforming complex data into intelligent, scalable solutions a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
 </p>
 
 ### ML/AI & Deep Learning
@@ -65,7 +76,7 @@ I specialize in transforming complex data into intelligent, scalable solutions a
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-### Cloud & Data Platforms
+### Cloud & Big Data Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -74,73 +85,51 @@ I specialize in transforming complex data into intelligent, scalable solutions a
 
 ---
 
+## Language Usage Overview
+
+<div align="center">
+
+| Language | Usage % | Typical Use |
+|:---------|:-------:|:------------|
+| Python | 65% | Core ML, AI, data wrangling, deep learning |
+| SQL | 12% | Data extraction, querying, preprocessing |
+| C++ | 8% | Model optimization, performance-critical modules |
+| Scala | 5% | Big data (Spark MLlib, distributed systems) |
+| Julia | 4% | High-performance scientific computing |
+| MATLAB | 3% | Research, prototyping, academic ML |
+| Shell/Bash | 3% | Automation, data pipeline orchestration |
+
+</div>
+
+---
+
 ## Featured Projects
 
-<details open>
-<summary><b>Japanese Floor Plan Analyzer</b></summary>
-<br>
-Full fledge ML application that uses YOLO v8m model to detect objects and perform some essential operations.
+### Japanese Floor Plan Analyzer
+YOLOv8-powered ML app for detecting and quantifying architectural elements in Japanese floor plans.  
+**Stack:** Python · FastAPI · YOLOv8 · React · PostgreSQL  
+**Impact:** Reduced manual quantity estimation time from hours to minutes.
 
-**Key Features:**
-- Detect required/trained objects on the Japanese floor plan/blueprint and get the final count.
-- Trained 3 different model of objects, area(bathroom area, toilet area and staircase detection) and permeter(walls detections).
-- FastApi hosted interface.
-- Multiple added functionalities for easier user experience.
+---
 
-**Tech Stack:** Python, FastAPI, Object detection using Ultralytics YOLO, React, PostgreSQL, HTML, Canva, JavaScript. 
+### Social Media Trend Analyzer
+AI pipeline turning real-time social signals into visual insights using Stable Diffusion.  
+**Stack:** FastAPI · Python · Redis · PostgreSQL · React  
+**Impact:** Cut content generation time by 70% for marketing teams.
 
-**Impact:** Saved hours of manualy counting of objects and area/perimater value calculations. Takes one drag and drop to get all the required values on a single click, what took 10-20 people do 100-200 bblueprints now takes only minutes.
-</details>
+---
 
-<details>
-<summary><b>Social Media Trend Analyzer</b></summary>
-<br>
-Full-stack AI pipeline that transforms social signals into visual trend stories using text-to-image generation.
+### Conversational AI for Language Learning
+RAG-based language learning platform with bidirectional TTS/STT.  
+**Stack:** Whisper · LLaMA-2 · LangChain · FAISS · FastAPI  
+**Impact:** Boosted engagement 3× compared to traditional e-learning tools.
 
-**Key Features:**
-- Real-time trend detection and analysis
-- Multi-platform data aggregation
-- AI-generated visual summaries
-- RESTful API with caching layer
+---
 
-**Tech Stack:** Python, FastAPI, Stable Diffusion, Redis, React/Vue, PostgreSQL
-
-**Impact:** Reduced content creation time by 70% for marketing teams
-</details>
-
-<details>
-<summary><b>Conversational AI for Language Learning</b></summary>
-<br>
-Interactive language learning platform with real-time speech recognition and intelligent tutoring.
-
-**Key Features:**
-- Bidirectional TTS/STT for natural conversations
-- Context-aware responses using RAG
-- Progress tracking and personalized feedback
-- Multi-language support (EN/JA)
-
-**Tech Stack:** Whisper, LLaMA-2, LangChain, FAISS, FastAPI
-
-**Impact:** 85% user satisfaction rate, 3x engagement vs traditional methods
-</details>
-
-<details>
-<summary><b>OCR-based RPA Automation Suite</b></summary>
-<br>
-Enterprise-grade automation bots with high-accuracy document parsing and workflow orchestration.
-
-**Key Features:**
-- 98%+ OCR accuracy on complex documents
-- Multi-system integration (Kizuku/WebAccess/MailDealer)
-- Error handling and retry mechanisms
-- Comprehensive audit logging
-
-**Tech Stack:** OpenCV, Tesseract, Selenium, xlwings, Microsoft Graph API
-
-**Impact:** Automated 10,000+ monthly transactions, saving 200+ hours/month
-</details>
-
-> **Want a deeper dive?** Connect with me to discuss technical details or request private demos!
+### OCR-based RPA Automation Suite
+Enterprise bots for document parsing and workflow automation.  
+**Stack:** OpenCV · Tesseract · Selenium · xlwings · Microsoft Graph API  
+**Impact:** Automated 10K+ monthly transactions, saving 200+ hours per month.
 
 ---
 
@@ -150,22 +139,22 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 <tr>
 <td width="50%">
 
-### AI & Machine Learning
+### AI & ML Expertise
 - Large Language Models (LLMs)
-- RAG pipelines & prompt engineering
-- Computer Vision (detection, segmentation)
-- Time series forecasting
-- Model evaluation & guardrails
+- RAG pipelines and prompt engineering
+- Computer Vision (Detection, Segmentation)
+- Time Series Forecasting
+- Model evaluation and guardrails
 
 </td>
 <td width="50%">
 
-### Engineering & Ops
+### Engineering & MLOps
 - ETL/ELT pipeline design
-- Feature stores & model registries
-- FastAPI & microservices
-- Docker & Kubernetes
-- CI/CD & monitoring
+- Feature stores and model registries
+- FastAPI microservices
+- Docker and Kubernetes
+- CI/CD and monitoring
 
 </td>
 </tr>
@@ -175,103 +164,52 @@ Enterprise-grade automation bots with high-accuracy document parsing and workflo
 
 ## Currently Exploring
 
-**Research & Development:**
-- Small Language Models (SLMs) for edge/on-device inference
-- Structured output generation & function calling patterns
-- Bilingual (JA/EN) RAG systems and evaluation frameworks
-- Reinforcement Learning from Human Feedback (RLHF)
-
-**Learning:**
-- MLOps best practices
-- Multi-modal AI architectures
-- Prompt injection defense mechanisms
+- Small Language Models (SLMs) for edge inference  
+- Multimodal AI architectures  
+- JA/EN bilingual RAG systems  
+- RLHF and structured output control  
+- Advanced MLOps and prompt injection defense
 
 ---
 
-## Languages I Work With
+## GitHub Stats
 
-<div align="center">
-
-| Rank | Language | Usage % | Typical Use |
-|:----:|:---------|:-------:|:------------|
-| 1️⃣ | **Python** | 65% | Core ML, AI, data wrangling, deep learning |
-| 2️⃣ | **SQL** | 12% | Data extraction, querying, preprocessing |
-| 3️⃣ | **C++** | 8% | Model optimization, performance-critical modules |
-| 4️⃣ | **Scala** | 5% | Big data (Spark MLlib, distributed systems) |
-| 5️⃣ | **Julia** | 4% | High-performance scientific computing, experimentation |
-| 6️⃣ | **MATLAB** | 3% | Research, prototyping, academic ML |
-| 7️⃣ | **Shell/Bash** | 3% | Automation, data pipeline orchestration |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Github-Rajesh&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Github-Rajesh&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Github-Rajesh&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## GitHub Statistics
+## Achievements & Insights
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Github-Rajesh&theme=radical&hide_border=true&background=0D1117&stroke=FF00D4&ring=FF00D4&fire=FF6600&currStreakLabel=FF00D4" alt="GitHub Streak" height="200"/>
-
-</div>
-
-<div align="center">
-
-### Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Github-Rajesh&theme=react-dark&bg_color=0D1117&color=FF00D4&line=FF00D4&point=FFFFFF&hide_border=true)
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Github-Rajesh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Profile Insights
-
-<div align="center">
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Github-Rajesh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Github-Rajesh&color=FF00D4&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## Let's Collaborate!
+## Let's Collaborate
 
-I'm always interested in:
-- Innovative AI/ML projects
-- Open source contributions
-- Technical discussions and knowledge sharing
-- Mentoring and learning opportunities
+I'm open to:
+- Innovative AI/ML projects  
+- Open-source contributions  
+- Technical collaborations and mentorship  
 
-### Reach Me
-
-<div align="center">
-
-📧 **Email:** shrajesh.work@gmail.com  
-🌐 **Portfolio:** [shrajeshwork.wixsite.com/ds-ml](https://shrajeshwork.wixsite.com/ds-ml)  
-💼 **LinkedIn:** [/in/shrajesh-cmd/](https://www.linkedin.com/in/shrajesh-cmd/)
-
-</div>
+**Email:** [shrajesh.work@gmail.com](mailto:shrajesh.work@gmail.com)  
+**Portfolio:** [shrajeshwork.wixsite.com/ds-ml](https://shrajeshwork.wixsite.com/ds-ml)  
+**LinkedIn:** [linkedin.com/in/shrajesh-cmd](https://www.linkedin.com/in/shrajesh-cmd/)
 
 ---
 
 <div align="center">
 
-### Fun Fact
-*I debug with print statements and I'm not ashamed to admit it* 😄
-
----
-
-<sub>Made with 💜, ☕, and a relentless bias for shipping quality code</sub>
+*"Turning data into deployable intelligence."*  
+Built with Python • Driven by Curiosity • Deployed with Coffee
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
