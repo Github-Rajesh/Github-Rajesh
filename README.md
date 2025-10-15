@@ -77,6 +77,22 @@ I specialize in transforming complex data into intelligent, scalable solutions a
 ## Featured Projects
 
 <details open>
+<summary><b>Japanese Floor Plan Analyzer</b></summary>
+<br>
+Full fledge ML application that uses YOLO v8m model to detect objects and perform some essential operations.
+
+**Key Features:**
+- Detect required/trained objects on the Japanese floor plan/blueprint and get the final count.
+- Trained 3 different model of objects, area(bathroom area, toilet area and staircase detection) and permeter(walls detections).
+- FastApi hosted interface.
+- Multiple added functionalities for easier user experience.
+
+**Tech Stack:** Python, FastAPI, Stable Diffusion, Redis, React/Vue, PostgreSQL
+
+**Impact:** Saved hours of manualy counting of objects and area/perimater value calculations. Takes one drag and drop to get all the required values on a single click, what took 10-20 people do 100-200 bblueprints now takes only minutes.
+</details>
+
+<details>
 <summary><b>Social Media Trend Analyzer</b></summary>
 <br>
 Full-stack AI pipeline that transforms social signals into visual trend stories using text-to-image generation.
