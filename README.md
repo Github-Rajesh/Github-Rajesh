@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm S H Rajesh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;GenAI+%26+LLM+Specialist;Computer+Vision+Developer;Building+AI+that+Ships+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00D4&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;GenAI+%26+LLM+Specialist;Computer+Vision+Developer;Building+AI+that+Ships" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-S.H.Rajesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrajesh-cmd/)
 [![Email](https://img.shields.io/badge/Email-shrajesh.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrajesh.work@gmail.com)
