@@ -105,31 +105,71 @@ I specialize in transforming complex data into intelligent, scalable solutions a
 
 ## Featured Projects
 
-### Japanese Floor Plan Analyzer
-YOLOv8-powered ML app for detecting and quantifying architectural elements in Japanese floor plans.  
-**Stack:** Python · FastAPI · YOLOv8 · React · PostgreSQL  
-**Impact:** Reduced manual quantity estimation time from hours to minutes.
+<details open>
+<summary><b>Japanese Floor Plan Analyzer</b></summary>
+<br>
+Full fledge ML application that uses YOLO v8m model to detect objects and perform some essential operations.
 
----
+**Key Features:**
+- Detect required/trained objects on the Japanese floor plan/blueprint and get the final count.
+- Trained 3 different model of objects, area(bathroom area, toilet area and staircase detection) and permeter(walls detections).
+- FastApi hosted interface.
+- Multiple added functionalities for easier user experience.
 
-### Social Media Trend Analyzer
-AI pipeline turning real-time social signals into visual insights using Stable Diffusion.  
-**Stack:** FastAPI · Python · Redis · PostgreSQL · React  
-**Impact:** Cut content generation time by 70% for marketing teams.
+**Tech Stack:** Python, FastAPI, Object detection using Ultralytics YOLO, React, PostgreSQL, HTML, Canva, JavaScript. 
 
----
+**Impact:** Saved hours of manualy counting of objects and area/perimater value calculations. Takes one drag and drop to get all the required values on a single click, what took 10-20 people do 100-200 bblueprints now takes only minutes.
+</details>
 
-### Conversational AI for Language Learning
-RAG-based language learning platform with bidirectional TTS/STT.  
-**Stack:** Whisper · LLaMA-2 · LangChain · FAISS · FastAPI  
-**Impact:** Boosted engagement 3× compared to traditional e-learning tools.
+<details>
+<summary><b>Social Media Trend Analyzer</b></summary>
+<br>
+Full-stack AI pipeline that transforms social signals into visual trend stories using text-to-image generation.
 
----
+**Key Features:**
+- Real-time trend detection and analysis
+- Multi-platform data aggregation
+- AI-generated visual summaries
+- RESTful API with caching layer
 
-### OCR-based RPA Automation Suite
-Enterprise bots for document parsing and workflow automation.  
-**Stack:** OpenCV · Tesseract · Selenium · xlwings · Microsoft Graph API  
-**Impact:** Automated 10K+ monthly transactions, saving 200+ hours per month.
+**Tech Stack:** Python, FastAPI, Stable Diffusion, Redis, React/Vue, PostgreSQL
+
+**Impact:** Reduced content creation time by 70% for marketing teams
+</details>
+
+<details>
+<summary><b>Conversational AI for Language Learning</b></summary>
+<br>
+Interactive language learning platform with real-time speech recognition and intelligent tutoring.
+
+**Key Features:**
+- Bidirectional TTS/STT for natural conversations
+- Context-aware responses using RAG
+- Progress tracking and personalized feedback
+- Multi-language support (EN/JA)
+
+**Tech Stack:** Whisper, LLaMA-2, LangChain, FAISS, FastAPI
+
+**Impact:** 85% user satisfaction rate, 3x engagement vs traditional methods
+</details>
+
+<details>
+<summary><b>OCR-based RPA Automation Suite</b></summary>
+<br>
+Enterprise-grade automation bots with high-accuracy document parsing and workflow orchestration.
+
+**Key Features:**
+- 98%+ OCR accuracy on complex documents
+- Multi-system integration (Kizuku/WebAccess/MailDealer)
+- Error handling and retry mechanisms
+- Comprehensive audit logging
+
+**Tech Stack:** OpenCV, Tesseract, Selenium, xlwings, Microsoft Graph API
+
+**Impact:** Automated 10,000+ monthly transactions, saving 200+ hours/month
+</details>
+
+> **Want a deeper dive?** Connect with me to discuss technical details or request private demos!
 
 ---
 
